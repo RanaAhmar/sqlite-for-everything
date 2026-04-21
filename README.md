@@ -28,21 +28,6 @@ All examples are provided in Node.js (better-sqlite3) and Python (sqlite3), feat
 
 Read our comprehensive guide in [`MANIFESTO.md`](./MANIFESTO.md) to understand *when* and *why* you should aggressively default to SQLite for modern web architectures.
 
----
-
-## 🏢 About Stackaura
-
-This repository is curated by **Stackaura**. We specialize in providing top-tier digital solutions, focusing on cutting-edge web development, premium branding, and scalable, radically simplified software architecture designed to elevate your business without bloating your AWS bill.
-
-**Want to simplify your infrastructure?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our engineering philosophy and consulting services.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -61,3 +46,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
